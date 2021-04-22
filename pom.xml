@@ -437,6 +437,7 @@
 										<include>schema/**</include>
 										<include>templates/**</include>
 										<include>xslt/**</include>
+										<include>sql/**</include>
 									</includes>
 								</resource>
 							</resources>
